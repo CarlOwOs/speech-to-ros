@@ -12,8 +12,6 @@ The system creates a seamless voice-to-motion pipeline:
 4. **Robot Response**: The robot acknowledges your command with a playful verbal response (via ElevenLabs TTS)
 5. **Motion Execution**: The quadruped robot executes the movement using ROS 2
 
-This creates a natural, conversational interface for robot control, making the Go2 feel more like an interactive companion than a traditional remote-controlled device.
-
 ## Quick Start
 
 ### Prerequisites
