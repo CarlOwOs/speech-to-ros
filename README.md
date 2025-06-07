@@ -157,4 +157,4 @@ Voice interface that bridges human speech with robot commands.
 
 ## Acknowledgements
 
-This project builds upon the work from [com304-go2](https://github.com/dyvrl/com304-go2) and [go2_ros2_sdk](https://github.com/abizovnuralem/go2_ros2_sdk).
+This project was developed in the [EPFL AI Team](https://epflaiteam.ch/), and builds upon the work from [com304-go2](https://github.com/dyvrl/com304-go2) and [go2_ros2_sdk](https://github.com/abizovnuralem/go2_ros2_sdk).
