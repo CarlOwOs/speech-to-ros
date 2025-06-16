@@ -1,5 +1,7 @@
 # Voice-Controlled Unitree Go2 Robot
 
+https://github.com/user-attachments/assets/d58b43cc-e71f-462f-ae2c-70fc0197f23e
+
 Control your Unitree Go2 quadruped robot through natural voice commands. You can speak to your robot, and it responds both physically and verbally.
 
 ## How It Works
